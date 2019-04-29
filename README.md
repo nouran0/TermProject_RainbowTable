@@ -5,9 +5,7 @@
 This program can crack a password hash, where the password contains 8 ASCII characters. ( **_password.txt_** file contains a sample of passwords that the program can crack. The password file can be any file as long as the passwords are 8 ASCII characters long).
 The program takes approximately 4,673,699,840 ps for a password that's only letters (e.g. **_AsVszkEu_**). And approximately 3,434,545,152 ps for a password that's a combination of letters, numbers, and symbols  (e.g. **_pg$7cw!R_**). And for a password that's only numbers it takes approximately 3,357,278,208 ps (e.g. **_12345678_**). So, the program cracks relatively faster password hashes that contains only numbers.
 
-
-
-**_(Please run **_rainbow_table.py_** file if you made any changes in the **_password.txt_** file)_** 
+_(Please run **_rainbow_table.py_** file if you made any changes in the **_password.txt_** file)_
 
 **Running Instructions**
 
