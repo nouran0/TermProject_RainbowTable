@@ -1,4 +1,3 @@
-import argparse
 import hashlib
 import base64
 
@@ -54,9 +53,7 @@ def find(chain):
                 return curr[:curr.index(",")]
             
     return False
-
-
-    
+  
 def crack (h):
     '''
     Crack a given hash to find the password
