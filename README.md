@@ -7,7 +7,7 @@ The program takes approximately 4,673,699,840 ps for a password that's only lett
 
 
 
-### (Please run **_rainbow_table.py_** file if you made any changes in the **_password.txt_** file) 
+**_(Please run **_rainbow_table.py_** file if you made any changes in the **_password.txt_** file)_** 
 
 **Running Instructions**
 
